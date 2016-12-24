@@ -14,4 +14,4 @@ I'm bored so i am connecting 27.7.X2 deca client to creepylava server source.
 * Remove unneeded stuff [0]
 * Clean up source [0]
 * Make smooth as possible [0]
-* Add security [0] (No duping, godmode ect)
+* Add security; no duping, godmode ect [0]
